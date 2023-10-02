@@ -1,0 +1,22 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    color: white;
+    background-color: #333;
+}
+
+h1 {
+    color: mediumseagreen;
+}
+
+.greenh2 {
+   color: green;
+}
+
+.greenDark {
+    color: darkgreen;
+}
+
+.red {
+    color: orange
+}
