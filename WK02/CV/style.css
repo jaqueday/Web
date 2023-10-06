@@ -1,0 +1,28 @@
+body { 
+    background-color: darkgrey;
+    color: black;
+    text-align: center;
+    font-family: Arial;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    text-shadow: 2px 2px lightgray;
+}
+
+h2{
+    text-shadow: 2px 2px gray;
+}
+
+h3{
+    text-shadow: 2px 2px gray;
+}
+
+.flag1 {
+    font-weight: bold;
+}
+
+.under {
+    text-decoration: underline;
+}
