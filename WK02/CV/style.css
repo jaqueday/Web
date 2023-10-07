@@ -26,3 +26,11 @@ h3{
 .under {
     text-decoration: underline;
 }
+
+#exp {
+    list-style-type: circle;
+}
+
+#skill {
+    list-style-type:square;
+}
