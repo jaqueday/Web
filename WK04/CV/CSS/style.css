@@ -1,0 +1,21 @@
+body { 
+    background-color: darkgrey;
+    color: black;
+    font-family: Arial;
+}
+#header, #main{
+	display:flex;
+}
+#header{
+	background: #687c76;;
+	font-size:200%;
+    height: 75px;
+}
+#main{
+	min-height:600px;
+	background:lightgrey;
+}
+.link{
+	flex:3;
+	text-align:justify;	
+}
