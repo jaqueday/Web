@@ -1,0 +1,24 @@
+body {
+    background:#f0ebd8;
+}
+button{
+    background-color: blue ;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+button:disabled{
+    background-color: grey;
+    color: white;
+}
+button:hover{
+    background-color: #4CAF50;
+    color: white;
+}
+.container{
+    align-items: center;
+    text-align: center;
+}
